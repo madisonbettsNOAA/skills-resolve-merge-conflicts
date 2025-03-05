@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+# References
+Betts and Engster, 2025
